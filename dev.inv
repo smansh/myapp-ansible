@@ -1,3 +1,4 @@
+#ip address of host machine
 [webservers]
 192.168.1.182 ansible_user=root 
 192.168.1.94 ansible_user=root 
